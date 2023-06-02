@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>JOMACS Releases Nexus Repository</name>
-	      <url>http://172.31.30.172:8081/repository/kwame-ap-release/</url>
+	      <url>http://172.31.30.172:8081/repository/kwame-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
